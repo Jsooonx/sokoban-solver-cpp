@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/box.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/box.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/box.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/box.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/game.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/game.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/game.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/leaderboard.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/leaderboard.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/leaderboard.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/leaderboard.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/level.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/level.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/level.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/level.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/main.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/main.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/main.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/player.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/player.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/player.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/player.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/solver.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/solver.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/solver.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/solver.cpp.o"
+},
+{
+  "directory": "/home/jsooonx/Coding/Proglan/Sokoban/build",
+  "command": "/usr/bin/c++ -DSOKOBAN_ASSET_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/assets\\\" -DSOKOBAN_DATA_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban/data\\\" -DSOKOBAN_PROJECT_DIR=\\\"/home/jsooonx/Coding/Proglan/Sokoban\\\" -I/home/jsooonx/Coding/Proglan/Sokoban/include -std=gnu++17 -o CMakeFiles/sokoban.dir/src/ui.cpp.o -c /home/jsooonx/Coding/Proglan/Sokoban/src/ui.cpp",
+  "file": "/home/jsooonx/Coding/Proglan/Sokoban/src/ui.cpp",
+  "output": "CMakeFiles/sokoban.dir/src/ui.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/jsooonx/Coding/Proglan/Sokoban/build/CMakeFiles/sokoban.dir
+/home/jsooonx/Coding/Proglan/Sokoban/build/CMakeFiles/edit_cache.dir
+/home/jsooonx/Coding/Proglan/Sokoban/build/CMakeFiles/rebuild_cache.dir
